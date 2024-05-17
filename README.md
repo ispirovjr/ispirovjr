@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @ispirovjr
-- 👀 I’m interested in games
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on revolution
+- 👋 Hi, I’m @ispirovjr,
+# Ivan Spirov
+## An Astrophysics student in RUG with Honor
+
+- Interested in Astrophysics and Programming
+- Experience in Java, Phython, C# and some C
+- I enjoy data analysis and visualisations for real data as well as making games
+- Currently learning AI to apply in science
 
 
 <!---
