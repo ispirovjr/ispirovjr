@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ispirovjr,
 # Ivan Spirov
-## An Astrophysics student in RUG with Honor
+## An Honors Astrophysics student in RUG 
 
 - Interested in Astrophysics and Programming
 - Experience in Java, Phython, C# and some C
