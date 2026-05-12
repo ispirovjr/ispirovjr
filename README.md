@@ -28,7 +28,7 @@ I am an astrophysicist and programmer passionate about leveraging computational 
 
 ## Connect with Me
 *   **LinkedIn:** [(https://www.linkedin.com/in/ivan-spirov-826005256/)]
-*   **Email:** [ispirovjr@gmai.com]
+*   **Email:** [ispirovjr@gmail.com]
 
 ---
 *Always open to collaborating on science-driven coding projects or game development!*
