@@ -21,6 +21,10 @@ I am an astrophysicist and programmer passionate about leveraging computational 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
+## 📊 GitHub Stats
+<div align="left">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
 
 ## 📫 Connect with Me
 *   **LinkedIn:** [(https://www.linkedin.com/in/ivan-spirov-826005256/)]
