@@ -1,13 +1,13 @@
-#   Hi there, I'm Ivan Spirov
+# Ivan Spirov
 
 **Honors Astrophysics Master's Student @ University of Groningen (RUG)**
 
-I am an astrophysicist and programmer passionate about leveraging computational techniques to understand the universe. I enjoy bridging the gap between theoretical science and modern software development, whether that is through data analysis, visualizing real-world or simulated data, or developing neural networks.
+I am an astrophysicist and programmer who is passionate about leveraging computational techniques to understand the universe. I enjoy bridging the gap between theoretical science and modern software development, be it through data analysis, visualizing real-world and simulated data or developing neural networks.
 
 ## About Me
 *   **Academic:** Graduating Master's with Cum Laude, Honors, and extra credits in Astrophysics.
 *   **Current Focus:** Learning and applying Artificial Intelligence to solve complex scientific problems.
-*   **Interests:** Beyond astrophysics, I love game development and translating complex data into engaging visualizations.
+*   **Interests:** Beyond astrophysics, I love game development and translating complex data into visualizations.
 
 ## What I'm Working On
 *  [**DTFE**](https://github.com/ispirovjr/JuliaDTFE) — optimized Julia implementation for density estimation using the Delaunay Tessellation Field Estimator.
